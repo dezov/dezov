@@ -18,8 +18,7 @@
 <li>Devops Skills</li>
 
 <img src="https://img.shields.io/badge/Docker-00599C?logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jenkins-D24939?
-logo=jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/></a>
 
 <li>FrameWork</li>
 
