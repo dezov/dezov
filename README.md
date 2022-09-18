@@ -9,17 +9,15 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/C-000000?logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/Java-00599C?logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python3-3776AB?logo=python&logoColor=white"/></a>
+
 <li>Devops Skills</li>
 
 <img src="https://img.shields.io/badge/Docker-00599C?logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jenkins-D24939?
-logo=jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?  logo=jenkins&logoColor=white"/></a>
 
 <li>FrameWork</li>
 
