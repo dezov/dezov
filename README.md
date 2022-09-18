@@ -31,12 +31,14 @@
 <img src="https://img.shields.io/badge/Microsoft SQL Server -CC2927?logo=Microsoft SQL Server&logoColor=white"/></a>
 
 <li>OS</li>
+
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mac-f05032?logo=macos&logoColor=white"/></a>
 
 
 <li>Tools</li>
+
 <img src="https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white"/></a>
@@ -44,8 +46,11 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual studio code&logoColor=white"/></a>
 
 <li>Test</li>
+
 <img src="https://img.shields.io/badge/Junit5-25A162?logo=Junit5&logoColor=white"/></a>
+
 <li>Team Collaboration Tool</li>
+
 <img src="https://img.shields.io/badge/slack-4A154B?logo=slack&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezov&layout=compact)](https://github.com/dezov/github-readme-stats)
