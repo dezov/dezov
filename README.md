@@ -1,6 +1,3 @@
-# dezov
-
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=300&section=header&text=dezov&fontSize=90)
 
 <li>Programing Skills</li>
