@@ -1,7 +1,7 @@
 # dezov
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&height=300&section=header&text=dezov&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=300&section=header&text=dezov&fontSize=90)
 
 <li>Programing Skills</li>
 
@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=GNU Bash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual studio code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intellij IDEA-000000?logo=Intellij IDEA&logoColor=white"/></a>
 
 <li>Test</li>
 
