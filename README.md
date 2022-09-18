@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white">
 
 <li>DB</li>
 
@@ -42,6 +43,7 @@
 <img src="https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Iterm2-000000?logo=Iterm2&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=GNU Bash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual studio code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?logo=Intellij IDEA&logoColor=white"/></a>
@@ -53,5 +55,6 @@
 <li>Team Collaboration Tool</li>
 
 <img src="https://img.shields.io/badge/slack-4A154B?logo=slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezov&layout=compact)](https://github.com/dezov/github-readme-stats)
